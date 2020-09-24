@@ -1,9 +1,14 @@
 # Wine Quality Classification
 
+![](https://raw.githubusercontent.com/twhipple/Wine_Classification/master/Images/wine-making-mirofoto.jpg)
+*Predicting the quality of wine through classification. Source: 'mirofoto', freeimages.com*
 
 ## Intro
 In this repo I will use classification models to try and predict the quality of wine. The 1600 data samples comes from the UCI machine learning repository (that's a lot of wine!).
 
+
+![](https://raw.githubusercontent.com/twhipple/Wine_Classification/master/Images/Alcohol-quality.png)
+*Alcohol seems to be related to the quality of wine.*
 
 ## README Outline
 * Introduction 
@@ -86,6 +91,8 @@ All models had pretty similar accuracy scores, with the XGBoost validation accur
 ## Future Work
 I could use Grid Search to modify the parameters and try improve the performance of my models. I also could use Cross Validation Score to assess the effectiveness of my model, particularly in order to avoid over-fitting.
 
+![](https://raw.githubusercontent.com/twhipple/Wine_Classification/master/Images/bottles-of-wine-carlos-sillero.jpg)
+*Which wine would you choose? Source: Carlos Sillero, freeimages.com*
 
 ## Built With:
 Jupyter Notebook
