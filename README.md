@@ -12,6 +12,7 @@ In this repo I will use classification models to try and predict the quality of 
 
 *Alcohol seems to be related to the quality of wine.*
 
+
 ## README Outline
 * Introduction 
 * Project Summary
@@ -21,6 +22,11 @@ In this repo I will use classification models to try and predict the quality of 
 * Results
 * Future Work
 * Built With, Contributors, Authors, Acknowledgments
+
+
+![](https://raw.githubusercontent.com/twhipple/Wine_Classification/master/Images/citric_acid_boxplot.png)
+
+*Citric Acid boxplot demonstrating the correlation with Quality and showing a few outliers.*
 
 
 ## Repo Contents
