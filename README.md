@@ -92,6 +92,9 @@ These are the models that I tried in this project:
 * Stochastic Gradient Decent
 
 
+![](https://raw.githubusercontent.com/twhipple/Wine_Classification/master/Images/Wine_heat_map.png)
+
+
 ## Conclusions
 All models had pretty similar accuracy scores, with the XGBoost validation accuracy coming out a bit on top at 89.71%. I only wish I had these statistics available (along with my model) to help me purchase my next bottle of wine!
 
